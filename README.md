@@ -20,7 +20,7 @@ Ideja softverskog rješenja je omogućavanje korisnicima prijavu u sustav putem 
 
 ## Zadatak
 
-[Zadatak - Korisnički zahtjevi za Softver Kadrovska služba u IT poduzeću](https://github.com/foivz/pi2023-zadace-ljuracic21/blob/master/Zadatak%20-%20Kadrovska.pdf)
+[Zadatak - Korisnički zahtjevi za Softver Kadrovska služba u IT poduzeću](https://github.com/juracic03/Evaluation-project/blob/main/Zadatak%20-%20Kadrovska.pdf)
 
 ## Resursi
 
